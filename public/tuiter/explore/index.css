@@ -1,0 +1,113 @@
+.wd-round-full {
+    border-radius: 18px;
+}
+
+.wd-border-0 {
+    border-width: 0px;
+}
+
+.wd-bg-grey-light {
+    background: lightgrey;
+
+}
+
+.wd-col-grey-dark {
+    color: grey;
+}
+
+.wd-size-85 {
+    width: 85%;
+}
+
+.wd-full-size {
+    width: 100%;
+}
+
+.wd-padding-2 {
+    padding: 2px;
+}
+
+.wd-pos-abs-top {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+/* Researched from Stack Overflow https://stackoverflow.com/questions/71112954/search-bar-with-magnifying-glass-inside-using-css */
+input.wd-search-icon {
+    /* padding: 9px 4px 9px 4px; */
+    background-image: url("../icons/mag-glass.svg");
+    background-size: 13px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
+
+input[type="wd-search"] {
+    border: none;
+    margin: 0;
+    font-size: 16px;
+    margin: 15px;
+}
+
+.search-padding {
+    padding: 7px 8px 7px 30px;
+}
+
+.wd-top-right {
+    position: relative;
+    left: 35px;
+    top: 7px;
+}
+
+/* Leanred bits from Stack Overflow: https://stackoverflow.com/questions/8708347/how-to-make-ul-tabs-with-only-html-css */
+.wd-tabs-bar {
+    display: table;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.wd-tabs-bar>li {
+    float: left;
+    padding: 10px;
+    background-color: white;
+    color: darkgrey;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: darkgrey;
+    font-weight: bold;
+    width: 18%;
+    text-align: center;
+
+}
+
+ul.wd-tabs-bar>li.wd-active {
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: #00acee;
+    color: black;
+    font-weight: bold;
+}
+
+.wd-push-up {
+    position: relative;
+    bottom: 45px;
+    left: 10px;
+}
+
+ul.wd-about-tuits {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: 15px;
+}
+
+ul.wd-about-tuits>li.wd-tuit-highlight {
+    margin-bottom: 35px;
+    margin-top: 35px;
+    background-image: url("https://icons-for-free.com/download-icon-functions+hidden+horizontal+menu+more+icon-1320191205436013852_512.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 95%;
+    background-position-y: 0px;
+}

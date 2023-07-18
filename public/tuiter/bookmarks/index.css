@@ -1,0 +1,70 @@
+.wd-push-up-right {
+    position: relative;
+    bottom: 50px;
+    left: 60px;
+}
+
+.wd-bookmarks-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.wd-bookmark {
+    width: 800px;
+    background-image: url("https://icons-for-free.com/download-icon-functions+hidden+horizontal+menu+more+icon-1320191205436013852_512.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 96%;
+    background-position-y: 25px;
+    border: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.wd-profile-photo {
+    border-radius: 50%;
+    width: 50px;
+}
+
+.wd-name {
+    margin-bottom: 35px;
+    margin-top: 35px;
+    /* background-image: url("https://icons-for-free.com/download-icon-functions+hidden+horizontal+menu+more+icon-1320191205436013852_512.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 95%;
+    background-position-y: 0px; */
+}
+
+.wd-tweet-body {
+    position: relative;
+    left: 10px;
+}
+
+.wd-tuit-header {
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+}
+
+.wd-tuit-overview {
+    border: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    border-radius: 10px;
+    width: 700px;
+    position: relative;
+    bottom: 60px;
+    left: 70px;
+    margin-top: 30px;
+}
+
+.wd-tuit-cover {
+    width: 700px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

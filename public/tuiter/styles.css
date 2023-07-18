@@ -1,0 +1,32 @@
+.wd-margin-5 {
+    margin: 5px;
+}
+
+.wd-margin-3 {
+    margin: 3px;
+}
+
+.wd-margin-1 {
+    margin: 1px;
+}
+
+.wd-txt-white {
+    color: white;
+}
+
+.wd-txt-grey {
+    color: grey;
+}
+
+.wd-bold {
+    font-weight: bold;
+}
+
+.wd-inline {
+    display: inline;
+}
+
+.wd-padding-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
