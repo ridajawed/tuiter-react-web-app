@@ -30,7 +30,7 @@ function ExploreScreen() {
                 </li>
             </ul>
             <div className="position-relative mb-2">
-                <img src="images/starship.jpg" className="w-100" alt={"Starship Image"}/>
+                <img src="https://static.independent.co.uk/2023/04/17/15/17145629-5dc61c4e-3b78-4134-b6d3-926bbb8d0f7b.jpg" className="w-100" alt={"Starship Image"}/>
                 <h1 className="position-absolute wd-nudge-up text-white">
                     SpaceX Starship</h1>
             </div>

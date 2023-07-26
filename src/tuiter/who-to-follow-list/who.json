@@ -3,18 +3,18 @@
     "_id": 123,
     "userName": "NASA",
     "handle": "NASA",
-    "avatarIcon": "nasa.png"
+    "avatarIcon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png"
   },
   {
     "_id": 234,
     "userName": "Tesla",
     "handle": "tesla",
-    "avatarIcon": "tesla.png"
+    "avatarIcon": "https://www.logocentral.info/wp-content/uploads/2020/04/Tesla-Logo-1920X1080.png"
   },
   {
     "_id": 345,
     "userName": "SpaceX",
     "handle": "SpaceX",
-    "avatarIcon": "spacex.png"
+    "avatarIcon": "https://www.logo.wine/a/logo/SpaceX/SpaceX-White-Dark-Background-Logo.wine.svg"
   }
 ]
