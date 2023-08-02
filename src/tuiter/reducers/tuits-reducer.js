@@ -4,7 +4,7 @@ import tuits from './tuits.json';
 const currentUser = {
     "userName": "NASA",
     "handle": "@nasa",
-    "profileImage": "https://rb.gy/wcnv0",
+    "profileImage": "https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-NASA-Logo.jpg",
 };
 
 const templateTuit = {
