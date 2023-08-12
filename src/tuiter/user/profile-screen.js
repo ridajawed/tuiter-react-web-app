@@ -15,7 +15,7 @@ function ProfileScreen() {
      let payload =''
      setProfile(payload);
    };
-   loadProfile();
+   loadProfile(); 
  }, []);
  return (
     <div>
